@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="form-generator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/form_generator_jar</output-path>
+    <root id="archive" name="form-generator.jar">
+      <element id="module-output" name="form-generator" />
+    </root>
+  </artifact>
+</component>
